@@ -23,7 +23,7 @@
             Natalija and I'm a Frontend developer.
             </h2>
             <details>
-                <summary>Common use Languages</summary>
+                <summary>Common used Languages</summary>
                 <a target="_blank" rel="noopener noreferrer" href="https://github-readme-stats.vercel.app/api/top-langs/?username=natalijajovanovska&amp;layout=compact">
                     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=natalijajovanovska&amp;layout=compact" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=natalijajovanovska&amp;layout=compact" style="max-width: 100%;">
                 </a>
